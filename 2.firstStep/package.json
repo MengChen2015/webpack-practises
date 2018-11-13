@@ -11,6 +11,7 @@
   "dependencies": {},
   "devDependencies": {
     "lodash": "^3.10.1",
+    "underscore": "^1.9.1",
     "webpack": "^4.25.1",
     "webpack-cli": "^3.1.2"
   }
